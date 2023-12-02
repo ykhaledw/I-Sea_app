@@ -1,16 +1,14 @@
 # i_sea_app
 
-A new Flutter project.
+An app to provide informations about the marine life and helps users to provide some suggestions to improve and save marine creations
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+# Firebase
+firebase_core
+cloud_firestore
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Home Screen
+2. Report Screen
+3. Articles Screen
